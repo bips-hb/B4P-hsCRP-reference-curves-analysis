@@ -23,4 +23,4 @@ Individual-level data are not stored in this repository. All data files and inte
 3. Percentile curve generation
 4. Elevated hs-CRP percentages comparison
 5. Sensitivity analysis of measurement methods
-6. Leave-one-study-out cross validation(LOSO-CV)
+6. Leave-one-study-out cross validation (LOSO-CV)
